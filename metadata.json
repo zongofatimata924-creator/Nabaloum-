@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Assistant IA chatbot multimodal moderne avec chat intelligent, génération d'images Imagine, mode vocal en direct et gestion de projets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
